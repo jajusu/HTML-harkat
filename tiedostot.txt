@@ -1,5 +1,5 @@
 Ajoaika.html
-Alennettu hinta.html
+Alennettu_hinta.html
 Alennus.html
 Alkometri.html
 Arvonta.html
